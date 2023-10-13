@@ -30,6 +30,6 @@ python test.py --dataset Synapse
 
 ## Core code
 
-1. You can find the code Cascaded-MLP in [as_mlp.py](networks/as_mlp.py).
+1. You can find the Cascaded-MLP code in [as_mlp.py](networks/as_mlp.py).
 
 2. The network code is in [Seg.py](networks/Seg.py).
