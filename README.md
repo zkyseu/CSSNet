@@ -1,5 +1,5 @@
 # CSSNet
-Official code for CSSNet: Cascaded Spatial Shift Network for Multi-organ Segmentation.
+Official code for CSSNet: Cascaded Spatial Shift Network for Multi-organ Segmentation. Our paper will be released soon.
 
 Our code is based on [TransUNet](https://github.com/Beckschen/TransUNet) and [AS-MLP](https://github.com/svip-lab/AS-MLP). Thanks for their great work!
 
