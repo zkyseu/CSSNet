@@ -48,7 +48,7 @@ class Cascaded_MLP(nn.Module):
     """
     here is our proposed Cascaded_MLP
     """
-    def __init__(self,in_chans,k = 4,groups = 2):
+    def __init__(self,in_chans,k = 6,groups = 2):
         super(Cascaded_MLP,self).__init__()
         self.k = k
         self.in_chans = in_chans
