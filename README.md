@@ -1,6 +1,6 @@
 # CSSNet
-Official code for CSSNet: Cascaded Spatial Shift Network for Multi-organ Segmentation. Our paper has been accepted by Computers in Biology and Medicine!
-The paper can be found after publication.
+Official code for [CSSNet: Cascaded Spatial Shift Network for Multi-organ Segmentation](https://www.sciencedirect.com/science/article/pii/S0010482524000398). Our paper has been accepted by Computers in Biology and Medicine!
+
 
 Our project is based on [TransUNet](https://github.com/Beckschen/TransUNet) and [AS-MLP](https://github.com/svip-lab/AS-MLP). Thanks for their great work!
 
@@ -34,3 +34,14 @@ python test.py --dataset Synapse
 1. You can find the Cascaded-MLP code in [as_mlp.py](networks/as_mlp.py).
 
 2. The network code is in [Seg.py](networks/Seg.py).
+
+## Citation
+If you think our work is helpful, please cite our paper
+```latex
+@article{2024cssnet,
+author = {Yeqin Shao, Kunyang Zhou, and Lichi Zhang},
+title = {CSSNet: Cascaded spatial shift network for multi-organ segmentation},
+journal = {Computers in Biology and Medicine},
+year = {2024}
+}
+```
