@@ -14,6 +14,7 @@ conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10
 ```
 
 2. Following the [TransUNet](https://github.com/Beckschen/TransUNet) to install the dependency.
+3. If you need the preprocessed data, please send an email to kunyangzhou@seu.edu.cn.
 
 ## Training and Testing
 
